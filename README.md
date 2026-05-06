@@ -157,7 +157,7 @@ We just taught it our specific categories
 
 ## 👨‍💻 Author
 
-Kanhaiya — Self-taught Deep Learning Engineer
+Kanhaiya 
 
 GitHub: github.com/kanhaiya-ml
 
